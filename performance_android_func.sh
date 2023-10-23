@@ -69,7 +69,7 @@ done
 # 5. Start test
 rm $OUTPUT_FILE
 adb -s $ANDROID_DEVICE shell rm /sdcard/result.json
-adb -s $ANDROID_DEVICE shell am start -a 'marssdk.intent.action.test.setup' -c 'android.intent.category.DEFAULT' --ez functionxxx true
+adb -s $ANDROID_DEVICE shell am start -a 'xxx.intent.action.test.setup' -c 'android.intent.category.DEFAULT' --ez functionxxx true
 START_TIME=$(date +%s)
 
 # 6. Check whether the func is completed

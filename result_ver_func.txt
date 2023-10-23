@@ -1,0 +1,13 @@
+CPU: 193, PSS: 92663, Power: , Traffic: 
+CPU: 82.7, PSS: 91201, Power: , Traffic: 
+CPU: 96.4, PSS: 91501, Power: , Traffic: 
+CPU: 186, PSS: 92816, Power: , Traffic: 
+CPU: 172, PSS: 92180, Power: , Traffic: 
+CPU: 185, PSS: 92146, Power: , Traffic: 
+CPU: 185, PSS: 92295, Power: , Traffic: 
+CPU: 193, PSS: 92204, Power: , Traffic: 
+CPU: 117, PSS: 92229, Power: , Traffic: 
+CPU: 182, PSS: 98012, Power: , Traffic: 
+CPU: 42.8, PSS: 92407, Power: , Traffic: 
+Function completed. Executing time: 36 seconds
+Average metrics: CPU: 148.62, PSS: 92695.81, Power: 0, Traffic: 0
